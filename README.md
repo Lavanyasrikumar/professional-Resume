@@ -7,12 +7,17 @@
 <!-- Quote -->
 <p align="center">9442486707|lavanyasrikumar07@gmail.com|Tamilnadu,virudhunagar
  <p align="center">professional resume
- <p align="left">career objective :
+<p align="left"><strong>career objective :</strong>
 <!-- Quote -->
    <p align="left">Seeking a position where I canutilize my knowledge andpersonal skills to gaincomprehensive understandingat a reputed organization so asto take responsibility andcontribute significantly.
  
+ <!--Education-->
+ <p><H3 align="center"><strong>Education :</strong>
+    <p align="left">PSR ENGINEERING COLLEGE-2022 PASSOUT
+    <p align="left">CGPA :7.8
+ 
  <!--Soft Skills-->
-<p><H3 align="center"><strong>soft skils :</strong></p>
+<p><H3 align="center"><strong>soft skills :</strong>
   <p align="   left">    * team work
   <p align="   left">    * problem solving
   <p align="   left">    *organizational skills
