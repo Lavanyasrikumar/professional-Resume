@@ -18,9 +18,9 @@
  
  <!--Soft Skills-->
 <p><H3 align=""><strong>soft skills :</strong>
-  <p align="  left">   * team work
-  <p align="  left">   * problem solving
-  <p align="  left">   *organizational skills
+  <p align="    left">     * team work
+  <p align="    left">     * problem solving
+  <p align="    left">     *organizational skills
 
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
