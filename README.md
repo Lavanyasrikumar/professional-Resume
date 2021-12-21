@@ -42,7 +42,7 @@
   
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688807-0d567000-0bca-11eb-8cec-9a813166d3d8.png"></code>
-   <code><img height="40" src="https://www.credly.com/org/amazon-web-services/badge/aws-academy-graduate-aws-academy-cloud-architecting"></code>
+   <code><img height="40" src="https://images.credly.com/size/340x340/images/fb464d5b-5c39-44a4-b4f0-cf07897fc425/AWS-Academy-Graduate-Badge-Associate.png"></code>
   </p>
 &nbsp;
 
