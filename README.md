@@ -12,15 +12,15 @@
    <p align="left">Seeking a position where I canutilize my knowledge andpersonal skills to gaincomprehensive understandingat a reputed organization so asto take responsibility andcontribute significantly.
  
  <!--Education-->
- <p><H3 align="center"><strong>Education :</strong>
+ <p><H3 align=""><strong>Education :</strong>
     <p align="left">PSR ENGINEERING COLLEGE-2022 PASSOUT
     <p align="left">CGPA :8.3
  
  <!--Soft Skills-->
-<p><H3 align="center"><strong>soft skills :</strong>
-  <p align="   left">    * team work
-  <p align="   left">    * problem solving
-  <p align="   left">    *organizational skills
+<p><H3 align=""><strong>soft skills :</strong>
+  <p align=" left">  * team work
+  <p align=" left">  * problem solving
+  <p align=" left">  *organizational skills
 
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
