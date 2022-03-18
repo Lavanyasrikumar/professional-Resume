@@ -9,7 +9,7 @@
  <p align="center">professional resume
 <p align="left"><strong>career objective :</strong>
 <!-- Quote -->
-   <p align="left">Seeking a position where I canutilize my knowledge andpersonal skills to gaincomprehensive understandingat a reputed organization so asto take responsibility andcontribute significantly.
+   <p align="left">Seeking a position where I can utilize my knowledge and personal skills to gain comprehensive understanding at a reputed organization so as to take responsibility and contribute significantly.
  
  <!--Education-->
  <p><H3 align=""><strong>Education :</strong>
